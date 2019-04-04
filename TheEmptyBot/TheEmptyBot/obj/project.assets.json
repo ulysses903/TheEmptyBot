@@ -14174,11 +14174,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ulysses\\Documents\\SGit\\TheEmptyBot\\TheEmptyBot\\TheEmptyBot\\TheEmptyBot\\TheEmptyBot.csproj",
+      "projectUniqueName": "C:\\Users\\ulysses\\Documents\\SGit\\TheEmptyBot\\TheEmptyBot\\TheEmptyBot\\TheEmptyBot.csproj",
       "projectName": "TheEmptyBot",
-      "projectPath": "C:\\Users\\ulysses\\Documents\\SGit\\TheEmptyBot\\TheEmptyBot\\TheEmptyBot\\TheEmptyBot\\TheEmptyBot.csproj",
+      "projectPath": "C:\\Users\\ulysses\\Documents\\SGit\\TheEmptyBot\\TheEmptyBot\\TheEmptyBot\\TheEmptyBot.csproj",
       "packagesPath": "C:\\Users\\ulysses\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ulysses\\Documents\\SGit\\TheEmptyBot\\TheEmptyBot\\TheEmptyBot\\TheEmptyBot\\obj\\",
+      "outputPath": "C:\\Users\\ulysses\\Documents\\SGit\\TheEmptyBot\\TheEmptyBot\\TheEmptyBot\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
