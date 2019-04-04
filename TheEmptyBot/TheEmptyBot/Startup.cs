@@ -49,9 +49,11 @@ namespace TheEmptyBot
             services.AddBot<TheEmptyBotBot>(options =>
            {
                var secretKey = Configuration.GetSection("botFileSecret")?.Value;
-
-                // Loads .bot configuration file and adds a singleton that your Bot can access through dependency injection.
-                var botConfig = BotConfiguration.Load(@".\TheEmptyBot.bot", secretKey);
+               var appId = Configuration.GetSection("MicrosoftAppId").Value;
+               var appPassword = Configuration.GetSection("MicrosoftAppPassword").Value;
+               options.CredentialProvider = new SimpleCredentialProvider(appId, appPassword);
+               // Loads .bot configuration file and adds a singleton that your Bot can access through dependency injection.
+               var botConfig = BotConfiguration.Load(@".\TheEmptyBot.bot", secretKey);
                services.AddSingleton(sp => botConfig);
 
                 // Retrieve current endpoint.
