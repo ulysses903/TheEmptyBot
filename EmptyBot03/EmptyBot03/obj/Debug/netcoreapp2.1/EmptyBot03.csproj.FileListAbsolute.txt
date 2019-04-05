@@ -1,0 +1,15 @@
+C:\Users\ulysses\source\repos\EmptyBot03\EmptyBot03\bin\Debug\netcoreapp2.1\EmptyBot03.bot
+C:\Users\ulysses\source\repos\EmptyBot03\EmptyBot03\bin\Debug\netcoreapp2.1\EmptyBot03.deps.json
+C:\Users\ulysses\source\repos\EmptyBot03\EmptyBot03\bin\Debug\netcoreapp2.1\EmptyBot03.runtimeconfig.json
+C:\Users\ulysses\source\repos\EmptyBot03\EmptyBot03\bin\Debug\netcoreapp2.1\EmptyBot03.runtimeconfig.dev.json
+C:\Users\ulysses\source\repos\EmptyBot03\EmptyBot03\bin\Debug\netcoreapp2.1\EmptyBot03.dll
+C:\Users\ulysses\source\repos\EmptyBot03\EmptyBot03\bin\Debug\netcoreapp2.1\EmptyBot03.pdb
+C:\Users\ulysses\source\repos\EmptyBot03\EmptyBot03\obj\Debug\netcoreapp2.1\EmptyBot03.csprojAssemblyReference.cache
+C:\Users\ulysses\source\repos\EmptyBot03\EmptyBot03\obj\Debug\netcoreapp2.1\EmptyBot03.csproj.CoreCompileInputs.cache
+C:\Users\ulysses\source\repos\EmptyBot03\EmptyBot03\obj\Debug\netcoreapp2.1\EmptyBot03.RazorAssemblyInfo.cache
+C:\Users\ulysses\source\repos\EmptyBot03\EmptyBot03\obj\Debug\netcoreapp2.1\EmptyBot03.RazorAssemblyInfo.cs
+C:\Users\ulysses\source\repos\EmptyBot03\EmptyBot03\obj\Debug\netcoreapp2.1\EmptyBot03.AssemblyInfoInputs.cache
+C:\Users\ulysses\source\repos\EmptyBot03\EmptyBot03\obj\Debug\netcoreapp2.1\EmptyBot03.AssemblyInfo.cs
+C:\Users\ulysses\source\repos\EmptyBot03\EmptyBot03\obj\Debug\netcoreapp2.1\EmptyBot03.RazorTargetAssemblyInfo.cache
+C:\Users\ulysses\source\repos\EmptyBot03\EmptyBot03\obj\Debug\netcoreapp2.1\EmptyBot03.dll
+C:\Users\ulysses\source\repos\EmptyBot03\EmptyBot03\obj\Debug\netcoreapp2.1\EmptyBot03.pdb
