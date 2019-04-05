@@ -58,7 +58,10 @@ namespace EmptyBot03
             {
                 await turnContext.SendActivityAsync("Otimo!");
             }
-
+            else if (responseMessage == "Ok")
+            {
+                await turnContext.SendActivityAsync("OK!");
+            }        
             else
             {
                 // Echo back to the user whatever they typed.             

@@ -67,7 +67,7 @@ namespace EmptyBot03
                // Catches any errors that occur during a conversation turn and logs them.
                options.OnTurnError = async (context, exception) =>
                {
-                   await context.SendActivityAsync("Sorry, it looks like something went wrong.");
+                   await context.SendActivityAsync(" ");
                };
            });
         }
